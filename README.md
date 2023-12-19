@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/84639970/226336865-730156f4-196f-4787-
 - Open a new file named .env
 
 ```environment
-    MONGO_URI=mongodb+srv://user:passworrd@seyit.jwhpjae.mongodb.net/?retryWrites=true&w=majority
+    MONGO_URI=mongodb+srv://razdanrohit73:shreyyaa27@task1.bp9cu0u.mongodb.net/?retryWrites=true&w=majority
     JWT_SECRET=sdgkMKEVlm3v23kl_n423vGG3b_TVnm234xnv23
     JWT_REFRESH_SECRET=rerv1jv15v1CVBnasd23jnv1j3123nvrqwr23
 ```
